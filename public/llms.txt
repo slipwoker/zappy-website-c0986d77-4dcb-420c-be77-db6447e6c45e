@@ -1,0 +1,56 @@
+# פיני גלעד, משרד עריכת דין — Generative Engine Optimization Map
+
+> A שירותים משפטיים business.
+
+---
+
+## Pages
+
+### Home
+https://-c0986d77.zappy5.app
+
+### Services
+https://-c0986d77.zappy5.app/services
+
+### About
+https://-c0986d77.zappy5.app/about
+
+### Contact
+https://-c0986d77.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c0986d77.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c0986d77.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c0986d77.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיני גלעד, משרד עריכת דין
+פיני גלעד, משרד עריכת דין is a business in the שירותים משפטיים industry.
+
+## Target Audience
+- אנשים בעלי הון גבוה
+- משקיעי נדל"ן
+- בעלי עסקים קטנים
+- לקוחות גירושין
+
+## Industry
+שירותים משפטיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-c0986d77.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-c0986d77.zappy5.app/robots.txt
